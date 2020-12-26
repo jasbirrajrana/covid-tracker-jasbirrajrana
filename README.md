@@ -1,6 +1,5 @@
 # React COVID Tracker
 
-![Alt text]('./public/ss.png',"Optional title")
 Made with :heart: by [Jasbir Raj Rana](https://github.com/jasbirrajrana)
 
 ## Available Scripts
